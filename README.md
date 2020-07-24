@@ -1,5 +1,7 @@
 # ¿Cómo preparar una propuesta de presentación para una conferencia/meetup sobre R? 
 
+<img src="rladies-chile-presentaciones.png" width="400"/>
+
 La realización de conferencias y meetups sobre R en modalidad virtual es una excelente oportunidad para que grupos menos representados en nuestra comunidad participen en estas instancias. Para muchas personas la imposibilidad de viajar --sea por la razón que sea-- ha sido un impedimento para poder ser parte de estas actividades. Ahora tenemos una oportunidad que es importante que aprovochemos. Pero ¿cómo preparar una propuesta? ¿Qué debiese incluir el abstract? ¿Para qué conferencia es más apropiada la idea que tengo? ¿Qué debería tener en cuenta al pensar una propuesta de presentación para un meetup? ¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia en mi disciplina? ¿Qué tengo que incluir en la Bio? Para responder estas preguntas y compartir algunas recomendaciones para diseñar tu propuesta nos juntaremos el próximo sábado 1 de agosto :)
 
 ### ¿Cómo me inscribo?
@@ -25,3 +27,4 @@ Lo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu compu
 Esta es una actividad organizada por los capítulos de RLadies de Chile en conjunto con [LatinR](https://latin-r.com/), la Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. Queremos más representación de Latinoamérica en las conferencias de R alrededor del mundo y qué mejor que apoyarnos como comunidad para lograrlo. 
 
 El taller estará a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga). 
+
