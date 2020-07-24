@@ -8,7 +8,7 @@ Desde cualquiera de los grupos de Meetup de los capítulos activos de RLadies Ch
 
 - [RLadies Santiago](https://www.meetup.com/es/rladies-scl/events/272107368/)
 - [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso/events/272089894/)
-- [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion)
+- [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion/events/272114170/)
 
 ### ¿Y si todavía no tengo una idea para una presentación?
 
