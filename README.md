@@ -9,4 +9,4 @@ Esta es una actividad organizada por los capítulos de RLadies de Chile en conju
 Sesión a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga). 
 
 * [Video](https://vimeo.com/443843162) (Falta la introducción :grimacing:. El video se inicia con la presentación de los temas que se abordarán en a charla)
-
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTFOsUWfSUU5zpy9nqP8ddmaeEvmwCrv7f8f0uts2Cad_yhc_WQvax8ArECmEQiIfNQNJoRwVrbJwOf/pub?start=false&loop=false)
